@@ -1,0 +1,22 @@
+# Node A,Node Z,Distance
+Ann_Arbor,Ithaca,800
+Ann_Arbor,Princeton,800
+Ann_Arbor,Salt_Lake_City,2400
+Atlanta,Houston,1200
+Atlanta,Pittsburgh,900
+Boulder,Houston,1100
+Boulder,Lincoln,800
+Boulder,Salt_Lake_City,600
+Champaign,Lincoln,700
+Champaign,Pittsburgh,700
+Champaign,Seattle,2800
+College_Park,Houston,2000
+College_Park,Ithaca,500
+College_Park,Princeton,300
+Houston,San_Diego,2000
+Ithaca,Pittsburgh,500
+Palo_Alto,Salt_Lake_City,1000
+Palo_Alto,San_Diego,600
+Palo_Alto,Seattle,1100
+Pittsburgh,Princeton,500
+San_Diego,Seattle,1600
