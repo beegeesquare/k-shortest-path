@@ -10,8 +10,8 @@ Email: bgsquare@gmail.com
 import csv
 import math
 
-nodes_file=csv.reader(open('./inputs/nodes.csv','rb'));
-links_file=csv.reader(open('./inputs/links.csv','rb'));
+nodes_file=csv.reader(open('nodes.csv','rb'));
+links_file=csv.reader(open('links.csv','rb'));
 
 
 
